@@ -4,7 +4,7 @@
 
 ## Português
 
-Scripts `.asl` para **Metroid: Zero Mission (USA)** e **Metroid Fusion (JPN)**, com Auto-Start e splits configuráveis. Testados por Erick / Petroide no **BizHawk com núcleo mGBA**, usando LiveSplit 1.8.29 no Windows.
+Scripts `.asl` para **Metroid: Zero Mission (USA)** e **Metroid Fusion (JPN)**, com Auto-Start e splits configuráveis. Testados por MetroidGameplays / **BizHawk 2.11.2 com núcleo mGBA**, usando LiveSplit 1.8.37 no Windows.
 
 ### Arquivos
 
@@ -49,7 +49,7 @@ Ao relatar um problema, informe jogo/região, versão do BizHawk, núcleo, event
 
 ## English
 
-LiveSplit `.asl` scripts for **Metroid: Zero Mission (USA)** and **Metroid Fusion (JPN)**, with automatic starts and configurable splits. Tested by Erick / Petroide in **BizHawk with the mGBA core**, using LiveSplit 1.8.29 on Windows.
+LiveSplit `.asl` scripts for **Metroid: Zero Mission (USA)** and **Metroid Fusion (JPN)**, with automatic starts and configurable splits. Tested by MetroidGameplays in **BizHawk 2.11.2 with the mGBA core**, using LiveSplit 1.8.37 on Windows.
 
 The file table above provides Portuguese and English settings. The language choice changes labels, messages and comments; **it does not change the target ROM region or detection logic**. Choose one language per game.
 
