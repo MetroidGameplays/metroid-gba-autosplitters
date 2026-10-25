@@ -4,7 +4,7 @@
 
 ## Português
 
-Scripts `.asl` para **Metroid: Zero Mission (USA)** e **Metroid Fusion (JPN)**, com Auto-Start e splits configuráveis. Testados por MetroidGameplays / **BizHawk 2.11.2 com núcleo mGBA**, usando LiveSplit 1.8.37 no Windows.
+Scripts `.asl` para **Metroid: Zero Mission (USA)** e **Metroid Fusion (JPN)**, com Auto-Start e splits configuráveis. Testados por MetroidGameplays no **BizHawk 2.11.2 com núcleo mGBA**, usando LiveSplit 1.8.37 no Windows.
 
 ### Arquivos
 
