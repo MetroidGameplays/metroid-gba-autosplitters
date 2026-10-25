@@ -10,8 +10,8 @@ Scripts `.asl` para **Metroid: Zero Mission (USA)** e **Metroid Fusion (JPN)**, 
 
 | Jogo | Opções em português | Options in English |
 | --- | --- | --- |
-| Zero Mission — USA | [MetroidZeroMission.asl](MetroidZeroMission.asl) | [MetroidZeroMission_EN.asl](MetroidZeroMission_EN.asl) |
-| Fusion — JPN | [MetroidFusion_JPN.asl](MetroidFusion_JPN.asl) | [MetroidFusion_JPN_EN.asl](MetroidFusion_JPN_EN.asl) |
+| Zero Mission — USA | [MetroidZeroMission PT-BR.asl](MetroidZeroMission%20PT-BR.asl) | [MetroidZeroMission_EN.asl](MetroidZeroMission_EN.asl) |
+| Fusion — JPN | [MetroidFusion_JPN_PT-BR.asl](MetroidFusion_JPN_PT-BR.asl) | [MetroidFusion_JPN_EN.asl](MetroidFusion_JPN_EN.asl) |
 
 O idioma do arquivo muda as opções, mensagens e comentários. **Não muda a região da ROM nem a lógica de detecção.** Escolha apenas um idioma para o jogo que vai usar.
 
